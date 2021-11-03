@@ -1,2 +1,2 @@
-# GOIT-HW-2
-homework #2
+# goit-markup-hw-01
+HTML p1 homework
