@@ -1,17 +1,36 @@
 :root {
+    --main-title-color: #ffffff;
+    --second-title-color: #212121;
+    --main-text-color: #757575;
+    --third-text-color: #9da4bd;
+    --fourth-text-color: #303030;
+    --accent-color: #2196F3;
+    --main-btn-color: #ffffff;
+    --second-btn-color: #2196F3;;
+    --header-text-color:#000000;
+    --footer-color:#2F303A;
+}
 
+.header {
+    background color: #ffffff;
 }
 
 Body{
-    font font-family: ;
+    font font-family: Roboto, sans-serif;
    
 }
 .list {
     list-style: none;
 }
 .link {
-    text-decoration: none
+    text-decoration: none;
 }
 .header-link:hover{
     color: ;
+}
+
+/* Footer */
+
+footer{
+    background-color: var(--footer-color);
 }
